@@ -1,0 +1,2 @@
+rootProject.name = "MyShare"
+include ':app'

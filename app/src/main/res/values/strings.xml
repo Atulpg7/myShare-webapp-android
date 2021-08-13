@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyShare</string>
+    <string name="upload_your_file">Upload your file</string>
+    <string name="description">description</string>
+    <string name="want_to_share_your_file">Want to share your file!</string>
+    <string name="upto_100_mb">(Up to 100 MB)</string>
+    <string name="choose_a_file">Choose a file</string>
+    <string name="select_any_type_of_file">Select any type of file</string>
+    <string name="your_file_is_ready_to_download">Your file is ready to download</string>
+    <string name="or">or</string>
+</resources>
